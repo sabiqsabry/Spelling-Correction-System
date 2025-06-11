@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+venv310/
+ENV/
+env/
+.env
+
+# Project specific
+corpus.txt
+corpus_small.txt
+*.bz2
+/extracted/
+/wikiextractor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore all large and unnecessary files/folders
+*.pyc
+.DS_Store
+
+# Remove all unnecessary files/folders
+.idea/
+.vscode/
+venv/
+venv310/
+ENV/
+env/
+.env
+corpus.txt
+corpus_small.txt
+*.bz2
+/extracted/
+/wikiextractor/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+# Large files and folders to exclude from GitHub
+*.bz2
+enwiki-20250601-pages-articles-multistream.xml.bz2
+/extracted/
+/venv310/
+/wikiextractor/
+/__pycache__/
+*.pyc
+*.log
+.DS_Store 

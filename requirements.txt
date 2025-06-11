@@ -1,0 +1,7 @@
+nltk==3.8.1
+streamlit==1.32.0
+editdistance==0.8.1
+tqdm==4.66.1
+numpy==1.26.3
+pandas==2.2.0
+wikiextractor==3.0.6 
