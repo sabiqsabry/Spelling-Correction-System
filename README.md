@@ -1,5 +1,7 @@
 # 🔠 NLP Spelling Correction System (Task A – CT052-3-M-NLP)
 
+![Screenshot of the NLP Spelling Correction System Streamlit App](NLP%20Spelling%20Correction%20System.png)
+
 This project is part of **Task A (Spelling Correction Component)** for the **CT052-3-M-NLP** module at **Asia Pacific University**. The system detects and corrects both **non-word** and **real-word** spelling errors using classical NLP techniques, including **Levenshtein Edit Distance** and **Bigram Probability Models**.
 
 ---
