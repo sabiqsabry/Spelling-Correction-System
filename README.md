@@ -90,15 +90,6 @@ You can:
 
 ---
 
-## 📊 Screenshots (Sample Placeholders)
-
-> _Add screenshots here if available for GUI, suggestions, and dictionary browser._
-
-- **GUI Interface:** Input box + highlighted error
-- **Dropdown:** Edit distance suggestions
-- **Dictionary Browser:** Word frequency table
-
----
 
 ## ✅ Assignment Context
 
